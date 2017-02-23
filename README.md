@@ -5,3 +5,8 @@ data for those parts of the world. Compared to most well-developed countries, wh
 have a high proportion of the population that are connected to the Internet who serve
 as active users and contributors, cities in developing countries have fewer users to
 develop and utilize such content. 
+
+
+Overview of analysis is available here:
+
+https://rawgit.com/patelmm79/Analysis-WB-Informal-Firm-Survey-Bangladesh-in-R/master/MilanPatelUdacityP3.html
